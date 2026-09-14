@@ -1,8 +1,8 @@
 # Informe Técnico – Telco Customer Churn
 
-**Integrantes:**Kimberly Bobadilla, Luna Cortés y Millaray Paillafil.
-**Asignatura:**Machine Learning  
-**Caso:**Predicción de abandono de clientes (Telco Customer Churn)  
+**Integrantes:** Kimberly Bobadilla, Luna Cortés y Millaray Paillafil.
+**Asignatura:** Machine Learning  
+**Caso:** Predicción de abandono de clientes (Telco Customer Churn)  
 **Año:** 2026
 
 ---
